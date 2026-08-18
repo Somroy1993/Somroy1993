@@ -21,6 +21,6 @@ Senior AI & Computer Vision Engineer with 6+ years of experience building multi-
 
 ### Core Stack
 
-- **Languages & Frameworks:** Python, PyTorch, OpenCV, SAHI, FastAPI, CrewAI, SciPy, NumPy[cite: 1]
-- **Edge & Hardware:** NVIDIA Jetson, Intel RealSense (D435i/D455/L515), Raspberry Pi[cite: 1]
-- **Cloud & Infrastructure:** AWS (Batch, Step Functions, RDS), GCP, Docker, Terraform, DVC, PostgreSQL[cite: 1]
+- **Languages & Frameworks:** Python, PyTorch, OpenCV, SAHI, FastAPI, CrewAI, SciPy, NumPy
+- **Edge & Hardware:** NVIDIA Jetson, Intel RealSense (D435i/D455/L515), Raspberry Pi
+- **Cloud & Infrastructure:** AWS (Batch, Step Functions, RDS), GCP, Docker, Terraform, DVC, PostgreSQL
