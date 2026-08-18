@@ -2,7 +2,7 @@
 
 Senior AI & Computer Vision Engineer with 6+ years of experience building multi-modal visual systems, real-time edge inference pipelines, and production statistical engines.
 
-- 📍 Based in Hyderabad / Kolkata, India
+- 📍 Based in Kolkata, India
 - 🎓 M.Tech in Intelligent Automation & Robotics, Jadavpur University
 - 🌐 Portfolio: [somroy1993.github.io](https://somroy1993.github.io/)
 - 💼 LinkedIn: [linkedin.com/in/somnathroy1993](https://www.linkedin.com/in/somnathroy1993/)
